@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../BeSucess/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/../BeSucess/Algorithm/Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/BeSucess.iml" filepath="$PROJECT_DIR$/BeSucess.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../BeSucess/NIO/NIO.iml" filepath="$PROJECT_DIR$/../BeSucess/NIO/NIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern/DesignPattern.iml" filepath="$PROJECT_DIR$/DesignPattern/DesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO/NIO.iml" filepath="$PROJECT_DIR$/NIO/NIO.iml" />
     </modules>
   </component>
 </project>
