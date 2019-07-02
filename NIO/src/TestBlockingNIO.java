@@ -24,7 +24,8 @@ public class TestBlockingNIO {
         SocketChannel socketChannel
         =SocketChannel.open(new InetSocketAddress("127.0.0.1",10000));
 
-        FileChannel in=FileChannel.open(Paths.get("C:\\Users\\hu\\Desktop\\1.jpg"), StandardOpenOption.READ);
+        FileChannel in=FileChannel.open(Paths.get("C:\\Users\\hu\\Desktop\\1.jpg"),
+                StandardOpenOption.READ);
 
         //分配指定大小的缓冲区
         ByteBuffer byteBuffer=ByteBuffer.allocate(1024);
@@ -45,7 +46,9 @@ public class TestBlockingNIO {
         //获取通道
         ServerSocketChannel serverSocketChannel=ServerSocketChannel.open();
 
-        FileChannel fileChannel=FileChannel.open(Paths.get("C:\\Users\\hu\\Desktop\\2.jpg"),StandardOpenOption.WRITE,StandardOpenOption.CREATE);
+        FileChannel fileChannel=FileChannel.open(
+                Paths.get("C:\\Users\\hu\\Desktop\\2.jpg"),
+                StandardOpenOption.WRITE,StandardOpenOption.CREATE);
         //绑定链接
         serverSocketChannel.bind(new InetSocketAddress(10000));
 
