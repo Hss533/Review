@@ -1,7 +1,7 @@
 /**
  * 判断ip地址是否正确
  */
-package leetcodoe;
+package others;
 
 public class IPTest {
     public static void main(String[] args) {

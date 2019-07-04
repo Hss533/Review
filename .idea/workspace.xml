@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed89c2b0-e107-4a0a-84b0-665377ab9e63" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/src/leetcodoe/IPTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NIO/src/IOTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DesignPattern/src/ObserverTest.java" afterPath="$PROJECT_DIR$/DesignPattern/src/ObserverTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NIO/src/TestBlockingNIO.java" afterPath="$PROJECT_DIR$/NIO/src/TestBlockingNIO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PaperTest/src/多益网络.txt" afterPath="$PROJECT_DIR$/PaperTest/src/多益网络.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test104.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test215.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test88.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test977.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ThreadTest/src/ThreadTest1.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Algorithm/leetcodoe/IPTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test3.java" afterPath="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Algorithm/src/leetcodoe/IPTest.java" afterPath="$PROJECT_DIR$/Algorithm/src/others/IPTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,21 +22,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="yuansuchazhao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/yuansuchazhao.java">
+      <file leaf-file-name="ThreadTest1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThreadTest/src/ThreadTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="453">
+              <caret line="61" column="57" lean-forward="false" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
+              <folding>
+                <element signature="e#1485#1486#0" expanded="true" />
+                <element signature="e#1504#1505#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test88.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test88.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test2.java">
+      <file leaf-file-name="Test977.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test977.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1233">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="412">
+              <caret line="55" column="9" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="55" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test215.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test215.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,20 +68,38 @@
       <file leaf-file-name="Test3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="999">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="432">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="25" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IPTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/IPTest.java">
+      <file leaf-file-name="Test104.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test104.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="22" column="38" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="22" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/others/IPTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-81">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -105,8 +147,13 @@
         <option value="$PROJECT_DIR$/NIO/src/IOTest.java" />
         <option value="$PROJECT_DIR$/NIO/src/TestBlockingNIO.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test2.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test3.java" />
         <option value="$PROJECT_DIR$/Algorithm/src/leetcodoe/IPTest.java" />
+        <option value="$PROJECT_DIR$/ThreadTest/src/ThreadTest1.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/others/IPTest.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test88.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test977.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test3.java" />
+        <option value="$PROJECT_DIR$/Algorithm/src/leetcodoe/Test104.java" />
       </list>
     </option>
   </component>
@@ -123,10 +170,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="952" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -173,7 +219,22 @@
             <path>
               <item name="BeSucess" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeSucess" type="462c0819:PsiDirectoryNode" />
-              <item name="PaperTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcodoe" type="462c0819:PsiDirectoryNode" />
+              <item name="Test3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="BeSucess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeSucess" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeSucess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeSucess" type="462c0819:PsiDirectoryNode" />
+              <item name="ThreadTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,7 +253,7 @@
     <property name="nodejs_interpreter_path" value="F:/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/IdeaWeb/JavaBaseReview" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,29 +267,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IPTest">
-    <configuration name="IPTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcodoe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcodoe.IPTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-    </configuration>
-    <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test104">
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ObserverTest" />
+      <option name="MAIN_CLASS_NAME" value="Solution2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -237,36 +279,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DesignPattern" />
+      <module name="ThreadTest" />
       <envs />
     </configuration>
-    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="offers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="offers.T1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Algorithm" />
-      <envs />
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcodoe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcodoe.Test2" />
+      <option name="MAIN_CLASS_NAME" value="leetcodoe.Test104" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -278,14 +301,14 @@
       <module name="Algorithm" />
       <envs />
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcodoe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcodoe.Test3" />
+      <option name="MAIN_CLASS_NAME" value="leetcodoe.Test88" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -295,6 +318,39 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="Test977" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcodoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcodoe.Test977" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Algorithm" />
+      <envs />
+    </configuration>
+    <configuration name="ThreadTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ThreadTest1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ThreadTest" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -379,19 +435,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.T1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ObserverTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test3" />
-      <item index="4" class="java.lang.String" itemvalue="Application.IPTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Solution2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreadTest1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test88" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test977" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test104" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.IPTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test3" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ObserverTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.T1" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Test104" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test977" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test88" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ThreadTest1" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +469,7 @@
       <workItem from="1561288575224" duration="6752000" />
       <workItem from="1561644343346" duration="3855000" />
       <workItem from="1561807856791" duration="5252000" />
-      <workItem from="1562039582399" duration="6206000" />
+      <workItem from="1562039582399" duration="18431000" />
     </task>
     <servers />
   </component>
@@ -450,7 +506,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43555000" />
+    <option name="totallyTimeSpent" value="55780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -458,15 +514,15 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.092307694" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09144197" sideWeight="0.4978425" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24853459" sideWeight="0.504315" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33059788" sideWeight="0.5366775" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24853459" sideWeight="0.495685" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3810082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33059788" sideWeight="0.46332255" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2813599" sideWeight="0.4978425" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22599784" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -476,7 +532,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36225086" sideWeight="0.4978425" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31770223" sideWeight="0.47195253" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -495,43 +551,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Algorithm/src/yuansuchazhao.java</url>
-          <line>14</line>
+          <url>file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test88.java</url>
+          <line>24</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/offers/T1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="34" column="7" lean-forward="false" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPattern/src/ObserverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2133">
-          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/Java jdk/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3537">
-          <caret line="131" column="17" lean-forward="false" selection-start-line="131" selection-start-column="17" selection-end-line="131" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://F:/Java jdk/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2754">
@@ -826,14 +856,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PaperTest/src/多益网络.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3186">
-          <caret line="118" column="17" lean-forward="false" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NIO/src/IOTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -855,34 +877,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/src/yuansuchazhao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        <state relative-caret-position="297">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PaperTest/src/多益网络.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="99" column="27" lean-forward="false" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreadTest/src/ThreadTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="61" column="57" lean-forward="false" selection-start-line="61" selection-start-column="57" selection-end-line="61" selection-end-column="57" />
+          <folding>
+            <element signature="e#1485#1486#0" expanded="true" />
+            <element signature="e#1504#1505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/others/IPTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1233">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test88.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test977.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="55" column="9" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="55" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="999">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="432">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="25" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/IPTest.java">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/leetcodoe/Test104.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="22" selection-end-column="38" />
           <folding />
         </state>
       </provider>

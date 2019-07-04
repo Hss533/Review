@@ -5,9 +5,6 @@ import sun.reflect.generics.tree.Tree;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-/**
- * 给定2D平面上的n个点，找到位于同一直线上的最大点数。
- */
 class TreeNode {
      int val;
       TreeNode left;
