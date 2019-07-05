@@ -37,12 +37,8 @@ public class Test1 {
                 i--;
             }
 
-
-
-
-            //结尾剩余三个A的情况
-
         }
+        //删除结尾
         int n= str.length();
         if(str.charAt(n-1)==str.charAt(n-2)&&str.charAt(n-3)==str.charAt(n-1)){
             str=delete(str,n-1);
