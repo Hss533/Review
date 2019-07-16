@@ -32,7 +32,7 @@ public class TestNoBlockingNIO
 
         Scanner scanner=new Scanner(System.in);
 
-        java.lang.String str=scanner.next();
+        String str=scanner.next();
         byteBuffer.put((new Date().toString()+"\n"+str).getBytes());
         byteBuffer.flip();
         socketChannel.write(byteBuffer);
@@ -46,7 +46,8 @@ public class TestNoBlockingNIO
     }
 
     @Test
-    public void server() throws Exception{
+    public void server() throws Exception
+    {
         ServerSocketChannel serverSocketChannel=ServerSocketChannel.open();
 
         //切换成非阻塞模式
@@ -60,7 +61,8 @@ public class TestNoBlockingNIO
         serverSocketChannel.register(selector, SelectionKey.OP_ACCEPT);
 
         //使用选择器轮询式获取选择器上已经准备就绪的时间
-        while(selector.select()>0){
+        while(selector.select()>0)
+        {
             //获取当前选择器中所有注册的选择键  已就绪的监听事件
             Iterator<SelectionKey> it=selector.selectedKeys().iterator();
 
