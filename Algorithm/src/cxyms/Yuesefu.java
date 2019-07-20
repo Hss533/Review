@@ -1,8 +1,12 @@
 package cxyms;
 
+/**
+ * 约瑟夫环问题
+ */
 public class Yuesefu {
-    public int getResult(int n, int m) {
 
+    public int getResult(int n, int m)
+    {
         int[] a=new int[n+1];
         int[] in=new int[n+1];
         for(int i=1;i<=n;i++){
