@@ -13,7 +13,7 @@ public class Test070701 {
             System.out.println(s);
         }
        /* ArrayList<String> result=new ArrayList<>();
-        for(String s:arrayList){
+        for(String s:list){
             for(int i=0;i<s.length()-1;i++){
                 if(Integer.valueOf(s.charAt(i))-Integer.valueOf(s.charAt(i+1))>8){
                     break;
