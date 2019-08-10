@@ -2,6 +2,7 @@ package cxyms;
 
 /**
  * 约瑟夫环问题
+ * TODO bug
  */
 public class Yuesefu {
 

@@ -1,7 +1,5 @@
 package leetcodoe;
 
-import leetcodoe.Test;
-
 /**
  * 翻转链表
  */

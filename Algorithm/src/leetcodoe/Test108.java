@@ -4,6 +4,12 @@ package leetcodoe;
  * 将有序数组转换为二叉搜索数
  */
 //right left
+ class TreeNode {
+      int val;
+      TreeNode left;
+      TreeNode right;
+      TreeNode(int x) { val = x; }
+  }
 public class Test108 {
     public static void main(String[] args) {
 

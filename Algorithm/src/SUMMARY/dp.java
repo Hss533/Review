@@ -20,6 +20,7 @@ public class dp {
      *
      */
     public static void he(int[] a){
+
         int cur[]=new int[a.length];
         int max[]=new int[a.length];
         cur[0]=a[0];
@@ -151,7 +152,7 @@ public class dp {
     //背包问题
     /**
      * 0 1 背包问题是动态规划问题
-     * 还有一种背包是贪心问题
+     * 还有一种完全背包是贪心问题
      *
      */
     public static  void back(){

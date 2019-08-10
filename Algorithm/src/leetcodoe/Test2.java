@@ -1,5 +1,6 @@
 package leetcodoe;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -13,15 +14,33 @@ import java.util.List;
  您可以假设除了数字 0 之外，这两个数都不会以 0 开头。
 
  */
+//如果是倒叙的话  可以放入栈中
 public class Test2 {
     public static void main(String[] args) {
 
     }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode pre=new ListNode(0);
-        ListNode cur=pre;
+        ListNode dum=new ListNode(0);
+        ListNode listNode1=l1;
+        ListNode listNode2=l2;
+        ListNode current=dum;
         int carry=0;
+        while (listNode1!=null||listNode2!=null){
+            int x=(listNode1!=null)?listNode1.val:0;
+            int y=(listNode2!=null)?listNode2.val:0;
+            int sum=carry+x+y;
 
-        return null;
+            carry=sum/10;
+            current.next=new ListNode(sum%10);
+            current=current.next;
+            if(listNode1!=null)listNode1=listNode1.next;
+            if(listNode2!=null)listNode2=listNode2.next;
+
+        }
+        if(carry>0){
+            current.next=new ListNode(carry);
+        }
+
+        return dum.next;
     }
 }
